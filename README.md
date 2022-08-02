@@ -1,7 +1,9 @@
 # gather_town_music_bot_local
 local music bot using selenium, mpv, VB-audio
 
-Prerequisites
+
+
+## Prerequisites
 
 mpv → https://mpv.io/ 
 
@@ -10,7 +12,9 @@ chrome driver → https://chromedriver.storage.googleapis.com/index.html?path=10
 VB-audio → https://vb-audio.com/
 
 
-For first time using:
+
+
+## For first time using:
 
 1.update paths at first block
 
@@ -21,6 +25,7 @@ For first time using:
 4.play mpv using Vb-audio cable as speaker
 
 
-alternative way using VB-audio:
+
+### alternative way using VB-audio:
 
 just open discord in another tab and throw msg from gather to discord, pipe sounds back to gather
