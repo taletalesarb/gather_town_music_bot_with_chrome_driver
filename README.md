@@ -1,4 +1,4 @@
-# gather_town_music_bot_local
+# gather_town_music_bot
 local music bot using selenium, mpv, VB-audio
 
 
